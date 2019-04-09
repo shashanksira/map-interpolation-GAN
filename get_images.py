@@ -5,7 +5,7 @@ import pandas as pd
 from pathlib import Path
 
 
-API_KEY = 'AIzaSyAnHu-qJn_hFa5UHBEODcB4iPWpYGeJ8hg'
+API_KEY = 'your api key here'
 
 dLat, dLong = 0.010122000000002629, 0.013259999999988281
 
